@@ -1,0 +1,2 @@
+Electrical Engineer, Master's student in Technological Innovation from Universidade Federal de São Paulo (UNIFESP - São José dos Campos, Brazil). Master Degree in Control and Industrial Automation Engineering from Instituto Mauá de Tecnologia (IMT - São Caetano do Sul, Brazil). MBA in Business Management from Fundação Getúlio Vargas (FGV - São Paulo, Brazil).
+Has experience in Industrial Automation Engineering and Computer Systems, mainly in the following research and development topics: Industry 4.0, Artificial Intelligence, Machine Learning, and IoT.
